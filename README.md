@@ -1,6 +1,6 @@
 # Npm-TypeScript-Hono
 
-## .env (3001)
+## .env
 ~~~env
 HONO_PORT=***
 ~~~
